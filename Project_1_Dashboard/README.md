@@ -28,7 +28,6 @@ The dataset involves real-world data science job information from 2023. Dataset 
 📊 **Data Science Job Salaries - Bar Chart**
 ![chart](https://github.com/user-attachments/assets/3358a899-dbb1-453f-ba99-f674ee77471c)
 
-
 - **Excel Features:** Used bar chart and optimized layout for clarity.
 - **Design Choice:** Horizontal bar chart for comparison of median salaries.
 - **Data Organization:** Job titles sorted by descending salary for better readability.
@@ -52,7 +51,6 @@ The dataset involves real-world data science job information from 2023. Dataset 
 - **Array Formula:** Uses MEDIAN() function with nested IF() statement in order to analyze an array.
 - **Tailored Insights:** Specific salary information for job titles, regions, and schedule types provided.
 - **Formula Purpose:** To populate table below, returning median salary based on job title, country, and type specified.
-
 
 ![table](https://github.com/user-attachments/assets/1af0d697-1d3a-4aa0-9709-1486ac266977)
 
