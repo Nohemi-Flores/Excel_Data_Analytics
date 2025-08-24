@@ -2,7 +2,7 @@
 ***I was able to complete this Excel project with the guidance of [Luke Barousse's Excel course](https://www.lukebarousse.com/excel). Files used in project are found in the aforementioned website.***
 
 ## Salary Dashboard
-This dashoboard was created to help job seekers assess fair compensation for their desired data roles.
+This dashboard was created to help job seekers assess fair compensation for their desired data roles.
 [Check out the dashboard!](Project_1_Salary_Dashboard.xlsx)
 
 ![Salary Dashboard](https://github.com/user-attachments/assets/c15b887e-6a3c-43ed-b70c-e9babfe287a3)
@@ -73,7 +73,7 @@ The dataset involves real-world data science job information from 2023. Dataset 
 
 ## Data Validation
 
-- **Enhanced Data Validation:** Implementing filtered list as a data validation rule under JOB TITLE, COUNTRY, and TYPE option nesures:
+- **Enhanced Data Validation:** Implementing filtered list as a data validation rule under JOB TITLE, COUNTRY, and TYPE option ensures:
     - User input is restricted to predefined, validated schedule types
     - Prevention of incorrect or inconsistent entries
     - Enhancement of dashboard's overall usability
